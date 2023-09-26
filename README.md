@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there 
 
-- 🔭 I’m currently studying an undergraduate degree in Economics at University of St. Andrews (Argentina)
-- 🌱 I’m currently learning data analytics using R
-- 👯 I’m looking to collaborate on exploratory data analysis projects.
-- 📫 How to reach me: 
+- I’m currently studying an undergraduate degree in Economics at UdeSA (Argentina)
+- The programming languages I'm using for projects are R, Stata and Python.
+- My main intrest is Data Science.
+- I am looking to learn about Machine Learning, Natural Language Processing and deepen my Data Science knowlege 
+
+- How to reach me: 
 
 [LinkedIn](https://www.linkedin.com/in/tomas-buscaglia-1a07111bb/)
 
-Gmail: tebuscaglia@gmail.com
+Gmail: tomasbuscaglia14@gmail.com
 
 
