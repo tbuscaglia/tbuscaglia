@@ -7,7 +7,7 @@
 
 - How to reach me: 
 
-[LinkedIn](https://www.linkedin.com/in/tomas-buscaglia-1a07111bb/)
+[LinkedIn](https://www.linkedin.com/in/tomasbuscaglia)
 
 Gmail: tomasbuscaglia14@gmail.com
 
